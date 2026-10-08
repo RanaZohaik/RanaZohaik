@@ -1,79 +1,107 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Muhammad Zohaik, Mobile Application Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=240&section=header&text=Muhammad%20Zohaik&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Mobile%20Application%20Developer%20%7C%20Software%20Engineering%20Graduate&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=760&height=50&lines=Building+cross-platform+mobile+apps+%F0%9F%93%B1;Turning+ideas+into+polished+products+%E2%9C%A8;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Debug+%E2%86%92+Ship+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=720&height=50&lines=Building+cross-platform+mobile+apps+%F0%9F%93%B1;React+Native+%7C+Flutter+%7C+Firebase+%7C+Laravel;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Debug+%E2%86%92+Ship;Open+to+exciting+projects+and+collaborations+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/>
 
-<a href="#about"><img src="https://img.shields.io/badge/About-0f172a?style=for-the-badge" /></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Stack-1e3a8a?style=for-the-badge" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-2563eb?style=for-the-badge" /></a>
-<a href="#experience"><img src="https://img.shields.io/badge/Experience-1e3a8a?style=for-the-badge" /></a>
-<a href="#stats"><img src="https://img.shields.io/badge/Stats-0f172a?style=for-the-badge" /></a>
-<a href="#connect"><img src="https://img.shields.io/badge/Contact-2563eb?style=for-the-badge" /></a>
+<a href="https://github.com/RanaZohaik">
+  <img src="https://komarev.com/ghpvc/?username=RanaZohaik&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+</a>
+<a href="https://github.com/RanaZohaik?tab=followers">
+  <img src="https://img.shields.io/github/followers/RanaZohaik?style=for-the-badge&logo=github&color=1e3a8a&labelColor=0f172a" />
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/RanaZohaik"><img src="https://komarev.com/ghpvc/?username=RanaZohaik&label=Profile%20Views&color=2563eb&style=flat-square" /></a>
-<a href="https://github.com/RanaZohaik?tab=followers"><img src="https://img.shields.io/github/followers/RanaZohaik?style=flat-square&logo=github&color=1e3a8a&labelColor=0f172a" /></a>
-<a href="https://www.linkedin.com/in/rana-zohaik-069553373/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rana-zohaik-069553373/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:zohaik.muhammad@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<br/>
 
-<h2 align="center" id="about"><img src="assets/title-about.svg" alt="About Me" width="100%" /></h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 👋 &nbsp;About Me
+
+<div align="center">
+
+I'm a **Software Engineering graduate** and **Mobile Application Developer** who enjoys turning ideas into practical, polished mobile and business applications.
+
+My current focus is **React Native**. Before that, I worked hands-on with **Flutter, Firebase, Laravel, ASP.NET Core, REST APIs, and database-driven systems**.
+
+</div>
+
+<br/>
 
 <table align="center" width="100%">
 <tr>
-<td width="54%" valign="top">
+<td width="50%" valign="top">
 
-```js
-const zohaik = {
-  role: "Mobile Application Developer",
-  education: "BS Software Engineering, University of Gujrat",
-  currentFocus: ["React Native", "REST APIs", "Navigation"],
-  previouslyBuiltWith: ["Flutter", "Firebase", "Laravel", "ASP.NET Core"],
-  currentlyAt: "Astapor Technologies",
-  philosophy: "Learn. Build. Test. Improve. Repeat.",
-};
-```
+### 🎓 &nbsp;Background
+
+- 🎓 &nbsp;BS Software Engineering, **University of Gujrat**
+- 📱 &nbsp;Mobile Application Developer
+- ⚛️ &nbsp;React Native Developer
+- 🦋 &nbsp;Flutter & Dart experience
+- 🔥 &nbsp;Firebase integration
+- 🌐 &nbsp;Backend & API integration
+- 💾 &nbsp;SQL & database-driven applications
 
 </td>
-<td width="46%" valign="top">
+<td width="50%" valign="top">
 
-I'm a **Software Engineering graduate** who enjoys turning ideas into practical, polished mobile and business applications.
+### 🚀 &nbsp;What I Do
 
-- 📱 &nbsp;Cross-platform mobile apps
-- 🔌 &nbsp;REST API & backend integration
-- 🔥 &nbsp;Firebase & SQL-driven systems
-- 🐞 &nbsp;Debugging & continuous improvement
-- 💼 &nbsp;Business-focused software
+- 📲 &nbsp;Build cross-platform mobile applications
+- 🧩 &nbsp;Develop and ship application features
+- 🔌 &nbsp;Integrate REST APIs
+- 🗄️ &nbsp;Work with Firebase & databases
+- 🐞 &nbsp;Debug and improve applications
+- 💼 &nbsp;Develop business-focused software
+- 📚 &nbsp;Continuously learn new technologies
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h2 align="center" id="stack"><img src="assets/title-stack.svg" alt="Tech Stack" width="100%" /></h2>
+## ⚡ &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="assets/stack-marquee.svg" width="100%" alt="Technologies: React Native, Flutter, Dart, Firebase, Laravel, ASP.NET Core, React, Node.js, MySQL, REST APIs, Git and more" />
+**📱 Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase,laravel,dotnet,nodejs,mysql,sqlite,git,postman,androidstudio&theme=dark&perline=12" />
+**🌐 Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,vite&theme=dark" />
+
+<br/>
+
+**⚙️ Backend**<br/>
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,express&theme=dark" />
+
+<br/>
+
+**🗄️ Database & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,git,github,postman,vscode,androidstudio&theme=dark" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h2 align="center" id="projects"><img src="assets/title-projects.svg" alt="Featured Projects" width="100%" /></h2>
+## 🚀 &nbsp;Featured Projects
 
 <table align="center" width="100%">
 <tr>
@@ -82,7 +110,7 @@ I'm a **Software Engineering graduate** who enjoys turning ideas into practical,
 ### 📱 Fixio
 **Rental & Marketplace App**
 
-<sub>🎓 Final Year Project</sub>
+<sub>Final Year Project</sub>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
@@ -90,7 +118,7 @@ I'm a **Software Engineering graduate** who enjoys turning ideas into practical,
 
 <br/>
 
-Browse, list, and manage rental products in a clean mobile marketplace.
+A mobile rental and marketplace application that lets users browse, list, and manage rental products.
 
 <a href="https://github.com/RanaZohaik/Fixio_RentalApp">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
@@ -102,7 +130,7 @@ Browse, list, and manage rental products in a clean mobile marketplace.
 ### 🖥️ AR Shanwari POS
 **Restaurant Management & POS**
 
-<sub>🖥️ Desktop Application</sub>
+<sub>Desktop Application</sub>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
@@ -111,7 +139,7 @@ Browse, list, and manage rental products in a clean mobile marketplace.
 
 <br/>
 
-A customized POS built for restaurant operations, order management, and daily workflows.
+A customized desktop POS system built to support restaurant operations, order management, and day-to-day workflows.
 
 <a href="https://github.com/RanaZohaik/AR_Shanwari_Software">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" />
@@ -125,7 +153,7 @@ A customized POS built for restaurant operations, order management, and daily wo
 ### 🚗 STB Driver / Rider
 **Driver & Rider Mobile App**
 
-<sub>🚚 On-demand Logistics</sub>
+<sub>On-demand Logistics</sub>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
@@ -133,7 +161,7 @@ A customized POS built for restaurant operations, order management, and daily wo
 
 <br/>
 
-Driver and rider workflows with on-demand logistics functionality.
+A mobile application focused on driver/rider workflows and on-demand logistics functionality.
 
 <a href="https://github.com/RanaZohaik/stb_driver">
   <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" />
@@ -145,7 +173,7 @@ Driver and rider workflows with on-demand logistics functionality.
 ### 🌐 Zyra
 **Rental Marketplace**
 
-<sub>🌍 Web Application</sub>
+<sub>Web Application</sub>
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
@@ -154,7 +182,7 @@ Driver and rider workflows with on-demand logistics functionality.
 
 <br/>
 
-Product listings, authentication, and rental workflows on the web.
+A web-based rental marketplace with product listings, authentication, and rental workflows.
 
 <a href="https://github.com/RanaZohaik">
   <img src="https://img.shields.io/badge/EXPLORE%20GITHUB-2563EB?style=for-the-badge&logo=github&logoColor=white" />
@@ -164,10 +192,9 @@ Product listings, authentication, and rental workflows on the web.
 </tr>
 </table>
 
-<details>
-<summary><b>🎓 &nbsp;University Projects (click to expand)</b></summary>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<br/>
+## 🎓 &nbsp;University Projects
 
 | Project | Technologies | Description |
 | :-- | :-- | :-- |
@@ -175,77 +202,58 @@ Product listings, authentication, and rental workflows on the web.
 | **Retail Inventory Management** | `SQL Server` | Database-driven system for products, inventory, stock levels, and sales records. |
 | **Admission Workflow Optimization** | `BPMN` | Designed and optimized an administrative workflow as a university project. |
 
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center" id="experience"><img src="assets/title-experience.svg" alt="Experience" width="100%" /></h2>
+## 💼 &nbsp;Professional Experience
 
 <table width="100%">
 <tr>
-<td width="20%" align="center" valign="top">
-
-**Sep 2026 → Now**<br/>
-<img src="https://img.shields.io/badge/CURRENT-22c55e?style=flat-square" />
-
-</td>
+<td width="22%" align="center" valign="top"><b>Sep 2026<br/>— Present</b></td>
 <td valign="top">
 
 ### ⚛️ Mobile Application Developer
 **Astapor Technologies**
 
-Developing cross-platform mobile applications with **React Native**: feature development, API integration, debugging, and continuous improvements.
+Developing cross-platform mobile applications with **React Native**: feature development, API integration, debugging, and continuous application improvements.
 
 </td>
 </tr>
 <tr>
-<td width="20%" align="center" valign="top">
-
-**Jun 2026 → Sep 2026**
-
-</td>
+<td width="22%" align="center" valign="top"><b>Jun 2026<br/>— Sep 2026</b></td>
 <td valign="top">
 
 ### 🖥️ Manager & Software Developer
 **AR Shanwari Hujra**
 
-Managed restaurant operations while designing and developing a customized **POS system** and mobile application for ordering and management workflows.
+Managed restaurant operations while designing and developing a customized **POS system** and mobile application to support ordering and management workflows.
 
 </td>
 </tr>
 <tr>
-<td width="20%" align="center" valign="top">
-
-**Nov 2025 → May 2026**
-
-</td>
+<td width="22%" align="center" valign="top"><b>Nov 2025<br/>— May 2026</b></td>
 <td valign="top">
 
 ### 🦋 Maintenance Mechanical Intern
 **Techno Fortress Software House**
 
-Worked on mobile development with **Flutter and Dart**, Firebase integration, Laravel backend development, API integration, and debugging.
+Worked on mobile application development with **Flutter and Dart**, Firebase integration, Laravel backend development, API integration, and software debugging.
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h2 align="center" id="stats"><img src="assets/title-stats.svg" alt="GitHub Stats" width="100%" /></h2>
+## 📊 &nbsp;GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RanaZohaik&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZohaik&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RanaZohaik&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZohaik&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=RanaZohaik&theme=tokyonight&hide_border=true&background=00000000" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RanaZohaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 <br/><br/>
 
@@ -264,9 +272,9 @@ OPTIONAL: animated contribution snake.
 </div>
 -->
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h2 align="center" id="learning"><img src="assets/title-learning.svg" alt="Currently Learning" width="100%" /></h2>
+## 🌱 &nbsp;Currently Learning
 
 <div align="center">
 
@@ -274,27 +282,38 @@ OPTIONAL: animated contribution snake.
 <img src="https://img.shields.io/badge/React%20Navigation-6B52AE?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend%20Integration-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Database%20Integration-0f172a?style=for-the-badge&logo=databricks&logoColor=white" />
 
 <br/><br/>
 
-Sharpening my **React Native** skills: navigation patterns, API work, and building complete application flows.
+I'm sharpening my **React Native** skills: navigation patterns, API work, and building complete application flows.
 
-<br/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🎯 &nbsp;Development Philosophy
+
+<div align="center">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=Learn+continuously.;Build+practically.;Improve+consistently." alt="Philosophy" />
 </a>
 
+<br/>
+
+I believe the best way to grow as a developer is to
+**learn → build → test → debug → improve → repeat.**
+
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<h2 align="center" id="connect"><img src="assets/title-connect.svg" alt="Let's Connect" width="100%" /></h2>
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
-Interested in **mobile applications, business software, or software projects**? I'd love to hear from you.
+Interested in **mobile applications, business software, or software development projects**? I'd love to hear from you.
 
 <br/>
 
@@ -304,12 +323,9 @@ Interested in **mobile applications, business software, or software projects**? 
 <a href="mailto:zohaik.muhammad@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-zohaik.muhammad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/RanaZohaik">
-  <img src="https://img.shields.io/badge/GitHub-RanaZohaik-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something great together." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=140&section=footer&animation=twinkling" width="100%" />
 
 </div>
