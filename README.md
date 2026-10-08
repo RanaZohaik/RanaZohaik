@@ -1,39 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a8a,70:2563eb,100:38bdf8&height=260&section=header&text=Muhammad%20Zohaik&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mobile%20Application%20Developer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Flutter&descAlignY=60&descSize=19" width="100%" />
+<img src="assets/header.svg" alt="Muhammad Zohaik, Mobile Application Developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=760&height=50&lines=Hi+there%2C+I%27m+Zohaik+%F0%9F%91%8B;I+build+cross-platform+mobile+apps+%F0%9F%93%B1;React+Native+%7C+Flutter+%7C+Firebase+%7C+Laravel;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Debug+%E2%86%92+Ship+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=760&height=50&lines=Building+cross-platform+mobile+apps+%F0%9F%93%B1;Turning+ideas+into+polished+products+%E2%9C%A8;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Debug+%E2%86%92+Ship+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/>
 
-<a href="#-about-me"><img src="https://img.shields.io/badge/About-0f172a?style=for-the-badge" /></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-1e3a8a?style=for-the-badge" /></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-2563eb?style=for-the-badge" /></a>
-<a href="#-experience"><img src="https://img.shields.io/badge/Experience-1e3a8a?style=for-the-badge" /></a>
-<a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-0f172a?style=for-the-badge" /></a>
-<a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-2563eb?style=for-the-badge" /></a>
+<a href="#about"><img src="https://img.shields.io/badge/About-0f172a?style=for-the-badge" /></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Stack-1e3a8a?style=for-the-badge" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-2563eb?style=for-the-badge" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-1e3a8a?style=for-the-badge" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/Stats-0f172a?style=for-the-badge" /></a>
+<a href="#connect"><img src="https://img.shields.io/badge/Contact-2563eb?style=for-the-badge" /></a>
 
 <br/><br/>
 
 <a href="https://github.com/RanaZohaik"><img src="https://komarev.com/ghpvc/?username=RanaZohaik&label=Profile%20Views&color=2563eb&style=flat-square" /></a>
 <a href="https://github.com/RanaZohaik?tab=followers"><img src="https://img.shields.io/github/followers/RanaZohaik?style=flat-square&logo=github&color=1e3a8a&labelColor=0f172a" /></a>
-<a href="https://github.com/RanaZohaik?tab=repositories"><img src="https://img.shields.io/github/stars/RanaZohaik?style=flat-square&logo=github&label=stars&color=1e3a8a&labelColor=0f172a" /></a>
+<a href="https://www.linkedin.com/in/rana-zohaik-069553373/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:0f172a&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-
-## 👋 About Me
-
-</div>
+<h2 align="center" id="about"><img src="assets/title-about.svg" alt="About Me" width="100%" /></h2>
 
 <table align="center" width="100%">
 <tr>
-<td width="52%" valign="top">
+<td width="54%" valign="top">
 
 ```js
 const zohaik = {
@@ -43,14 +39,13 @@ const zohaik = {
   previouslyBuiltWith: ["Flutter", "Firebase", "Laravel", "ASP.NET Core"],
   currentlyAt: "Astapor Technologies",
   philosophy: "Learn. Build. Test. Improve. Repeat.",
-  lookingFor: "Meaningful apps & business software to build",
 };
 ```
 
 </td>
-<td width="48%" valign="top">
+<td width="46%" valign="top">
 
-**I'm a Software Engineering graduate** who enjoys turning ideas into practical, polished mobile and business applications.
+I'm a **Software Engineering graduate** who enjoys turning ideas into practical, polished mobile and business applications.
 
 - 📱 &nbsp;Cross-platform mobile apps
 - 🔌 &nbsp;REST API & backend integration
@@ -62,44 +57,23 @@ const zohaik = {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:0f172a&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center" id="stack"><img src="assets/title-stack.svg" alt="Tech Stack" width="100%" /></h2>
 
 <div align="center">
 
-## ⚡ Tech Stack
+<img src="assets/stack-marquee.svg" width="100%" alt="Technologies: React Native, Flutter, Dart, Firebase, Laravel, ASP.NET Core, React, Node.js, MySQL, REST APIs, Git and more" />
 
-<table>
-<tr>
-<td align="center" width="180"><b>📱 Mobile</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🌐 Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,vite&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs,express&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite&theme=dark" /></td>
-</tr>
-<tr>
-<td align="center"><b>🛠️ Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio&theme=dark" /></td>
-</tr>
-</table>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase,laravel,dotnet,nodejs,mysql,sqlite,git,postman,androidstudio&theme=dark&perline=12" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:0f172a&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
+<h2 align="center" id="projects"><img src="assets/title-projects.svg" alt="Featured Projects" width="100%" /></h2>
 
 <table align="center" width="100%">
 <tr>
@@ -203,13 +177,9 @@ Product listings, authentication, and rental workflows on the web.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:0f172a&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-
-## 💼 Experience
-
-</div>
+<h2 align="center" id="experience"><img src="assets/title-experience.svg" alt="Experience" width="100%" /></h2>
 
 <table width="100%">
 <tr>
@@ -260,11 +230,11 @@ Worked on mobile development with **Flutter and Dart**, Firebase integration, La
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:0f172a&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center" id="stats"><img src="assets/title-stats.svg" alt="GitHub Stats" width="100%" /></h2>
 
 <div align="center">
-
-## 📊 GitHub Stats
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=RanaZohaik&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaZohaik&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" />
@@ -294,11 +264,11 @@ OPTIONAL: animated contribution snake.
 </div>
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:0f172a&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center" id="learning"><img src="assets/title-learning.svg" alt="Currently Learning" width="100%" /></h2>
 
 <div align="center">
-
-## 🌱 Currently Learning
 
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React%20Navigation-6B52AE?style=for-the-badge&logo=react&logoColor=white" />
@@ -318,11 +288,11 @@ Sharpening my **React Native** skills: navigation patterns, API work, and buildi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:0f172a&height=3&section=header" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center" id="connect"><img src="assets/title-connect.svg" alt="Let's Connect" width="100%" /></h2>
 
 <div align="center">
-
-## 🤝 Let's Connect
 
 Interested in **mobile applications, business software, or software projects**? I'd love to hear from you.
 
@@ -340,6 +310,6 @@ Interested in **mobile applications, business software, or software projects**? 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=150&section=footer&animation=twinkling" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by. Let's build something great together." />
 
 </div>
